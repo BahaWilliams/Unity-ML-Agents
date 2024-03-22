@@ -44,6 +44,19 @@ ExportedObj/
 *.svd
 *.pdb
 *.mdb
+*.pyc
+*.h
+*.pb
+*.onnx
+*.py
+*.pyd
+*.cpp
+*.hpp
+*.lib
+*.cmake
+*.pyi
+*.dll
+*.cuh
 *.opendb
 *.VC.db
 
